@@ -1,0 +1,47 @@
+D:\Anaconda\python.exe E:/Èí¼þ/PyCharm/Cars/data_cleaning.py
+0 week1-Sunday(0£º00-14£º00£©.xlsx
+1746
+1747
+1748
+1753
+1766
+1 week1-Sunday(14£º00-23£º59£©.xlsx
+2 week2-Monday(0£º00-14£º00£©.xlsx
+152686
+3 week2-Monday(14£º00-23£º59£©.xlsx
+4 week3-Tuesday(0£º00-14£º00£©.xlsx
+161594
+161595
+5 week3-Tuesday(14£º00-23£º59£©.xlsx
+6 week4-Wednesday(0£º00-14£º00£©.xlsx
+1757
+1758
+1759
+1760
+1761
+157554
+7 week4-Wednesday(14£º00-23£º59£©.xlsx
+8 week5-Thursday(0£º00-14£º00£©.xlsx
+1747
+1748
+1749
+1750
+1763
+1764
+9 week5-Thursday(14£º00-23£º59£©.xlsx
+10 week6-Friday(0£º00-14£º00£©.xlsx
+1765
+11 week6-Friday(14£º00-23£º59£©.xlsx
+12 week7-Saturday(0£º00-14£º00£©.xlsx
+1748
+1752
+1756
+1758
+13 week7-Saturday(14£º00-23£º59£©.xlsx
+14 week8-Sunday(0£º00-14£º00£©.xlsx
+15 week8-Sunday(14£º00-23£º59£©.xlsx
+16 week9-Monday(0£º00-14£º00£©.xlsx
+1760
+17 week9-Monday(14£º00-23£º59£©.xlsx
+
+Process finished with exit code 0
